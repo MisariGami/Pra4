@@ -1,5 +1,5 @@
 # 20CE029 Misari Gami
-# GitHub repository link : 
+# GitHub repository link : https://github.com/MisariGami/Pra4/blob/main/Pra4.py
 
 # Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up. Find runner-up from given list
 # Sample Input
